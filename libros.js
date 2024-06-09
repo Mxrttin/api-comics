@@ -61,7 +61,7 @@ const libros = [
         "name": "Batman: The Killing Joke",
         "escritor": "Alan Moore,Brian Bolland",
         "descripcion":"La historia examina el trasfondo del villano conocido como el Joker y muestra sus orígenes y primer encuentro con el Hombre Murciélago. La historia del cómic es famosa por su nudo argumental, en el cual el villano decide atacar al jefe de policía de Gotham James Gordon, a quien intenta volver loco, y a su hija Barbara, a quien dejaría paralítica luego de dispararle a quemarropa.",
-        "sprite1": "https://th.bing.com/th/id/OIP.lZ38BoTEtN8pgquViBejwAHaKn?rs=1&pid=ImgDetMain",
+        "sprite1": "https://img.livraddict.com/covers/249/249444/couv7826426.jpg",
         "precio": "$ 20.000",
 
     },
